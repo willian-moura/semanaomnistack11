@@ -25,3 +25,8 @@ chrome://flags/#hardware-media-key-handling
 strong:not(:first-child){
 
 }
+
+NATIVE
+nao existe herança de estilo
+
+expo install expo constants
