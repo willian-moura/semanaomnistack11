@@ -1,0 +1,27 @@
+
+npx create-react-app
+npm install react-icons
+npm install react-router-dom
+
+ctrl+shift+p
+setting JSON
+
+ "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+},
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+},
+
+justify-content -> horizontalmente alinhados 
+align-itens -> verticalmente '' ''
+
+.register-container .content form .input-group input + input { <-- input + input pega todo input
+                                                                   que tem um input antes
+}
+
+chrome://flags/#hardware-media-key-handling
+
+strong:not(:first-child){
+
+}
